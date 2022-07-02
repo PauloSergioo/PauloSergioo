@@ -1,4 +1,4 @@
-## Hello World, my name is Paulo Sergio, a technology lover and excited to revolutionize this wonderful area!
+## Hello World, my name is Paulo Sergio!
 
 
 <div align="center">
