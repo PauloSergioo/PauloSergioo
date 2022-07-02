@@ -1,7 +1,7 @@
 ## Hello World, my name is Paulo Sergio, a technology lover and excited to revolutionize this wonderful area!
 <div align="center">
   <a href="https://github.com/PauloSergioo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSergioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSergioo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergioo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
