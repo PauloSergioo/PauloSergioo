@@ -5,7 +5,7 @@
    ##
 
 <div style="display: inline_block" align="center"><br>
-Hello World, my name is Paulo Sergio, be welcome  !
+   <b>Hello World, my name is Paulo Sergio, be welcome  ! </b>
 </div>
 
 <div style="display: inline_block" align="center"><br>
