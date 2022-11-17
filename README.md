@@ -16,6 +16,7 @@
 </div>
    
 <br>
+   <div style="display: inline_block" align="center"><br>
 <div style="display: inline_block" align="center"><br>
 
 Tecnologias com conhecimento
@@ -40,6 +41,7 @@ Tecnologias em estudo
   <img align="center" alt="Paulo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
           
 </div>
+      </div>
 <br>
 
   ##
