@@ -29,7 +29,6 @@ Tecnologias com conhecimento
 </div>
 <br>
 
-##
 
 <div style="display: inline_block" align="center"><br>
 
