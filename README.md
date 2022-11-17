@@ -4,14 +4,15 @@
 
    ##
 
+<div style="display: inline_block" align="center"><br>
+  <b>Hello World, my name is Paulo Sergio, be welcome  ! </b>
+</div>
+   
+   
 <div align="center"><br>
   <a href="https://github.com/PauloSergioo">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=PauloSergioo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergioo&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <b>Hello World, my name is Paulo Sergio, be welcome  ! </b>
 </div>
    
 <br>
