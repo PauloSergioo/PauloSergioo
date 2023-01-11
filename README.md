@@ -5,11 +5,6 @@
 <div style="display: inline_block" align="center"><br>
    
 ##  Hello World, my name is Paulo Sergio, be welcome  ! 
-   <div align="center">
-  <a href="https://github.com/PauloSergioo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSergioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<br>
    
    ##
    
