@@ -6,8 +6,6 @@
    
 ##  Hello World, my name is Paulo Sergio, be welcome  ! 
    
-   ##
-   
 <div style="display: inline_block" align="center"><br>
    
    Tecnologias com conhecimento
