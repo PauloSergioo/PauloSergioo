@@ -10,7 +10,7 @@
    
 <div style="display: inline_block" align="center"><br>    
    
- [![My Skills](https://skills.thijs.gg/icons?i=java,spring,mongodb,mysql,postgres,docker&theme=dark)](https://skills.thijs.gg)
+    [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,spring,jsp,js,sql&theme=dark)](https://skills.thijs.gg)
  
 </div>
 
