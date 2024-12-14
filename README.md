@@ -9,8 +9,13 @@
 ### Tecnologias com conhecimento
    
 <div style="display: inline_block" align="center"><br>    
-   
-    [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,spring,jsp,js,sql&theme=dark)](https://skills.thijs.gg)
+
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+   <img src="https://img.shields.io/badge/JSP-5C2D91?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
  
 </div>
 
